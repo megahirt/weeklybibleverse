@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>5th Grade Bible Verses</title>
+    <!-- Import Styles -->
+    <link rel="stylesheet" href="./assets/styles.css" />
+    <!-- Import Vue.js -->
+    <script src="https://unpkg.com/vue@next"></script>
+        <!-- Import App -->
+    <script src="./main.js"></script>
+        <!-- Mount App -->
+
+  </head>
+  <body>
+    <div id="app">
+      <h2>{{ verse }}</h2>
+      <p><i>{{ reference }} (week of {{ monday }})</i></p>
+    </div>
+
+
+    
+    <script>
+      const mountedApp = app.mount('#app');
+    </script>
+  </body>
+</html>
