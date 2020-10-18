@@ -1,6 +1,6 @@
 const app =Vue.createApp({
   data() {
-    let today = new Date(2020, 9, 8);
+    let today = new Date();
     let thisMonday = formatDate(getMonday(today));
     let week = bible[thisMonday];
     let verse = week.Verse;
