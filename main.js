@@ -6,15 +6,15 @@ const app =Vue.createApp({
     let verse = week.Verse;
     let reference = week.Reference;
     if (verse == "") {
-      verse = "No Verse This Week!";
-      reference - week.Holiday;
+      verse = week.Holiday;
+      reference = "No Verse This Week!";
     }
     return {
       verse: verse,
       reference: reference,
       today: [today.getFullYear(), today.getMonth()+1, today.getDate()].join("-"),
       monday: thisMonday,
-      todayObj: today
+      todayObj: today,
     }
   }
 });
