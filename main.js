@@ -229,16 +229,16 @@ const bible = {
     "Verse": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future."
   },
   "2021-03-29": {
-    "Holiday": "",
-    "Lesson": 30,
-    "Reference": "Daniel 2:20",
-    "Verse": "Praise be to the name of God for ever and ever; wisdom and power are his."
-  },
-  "2021-04-05": {
     "Holiday": "Easter",
     "Lesson": 29,
     "Reference": "Isa 53:5",
     "Verse": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."
+  },
+  "2021-04-05": {
+    "Holiday": "",
+    "Lesson": 30,
+    "Reference": "Daniel 2:20",
+    "Verse": "Praise be to the name of God for ever and ever; wisdom and power are his."
   },
   "2021-04-12": {
     "Holiday": "Songkran Break",
