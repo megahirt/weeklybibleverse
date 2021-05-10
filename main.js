@@ -252,12 +252,6 @@ const bible = {
     "Reference": "John 4:23",
     "Verse": "Yet a time is coming and has now come when the true worshipers will worship the Father in the Spirit and in truth, for they are the kind of worshipers the Father seeks."
   },
-  "2021-04-26": {
-    "Holiday": "",
-    "Lesson": 32,
-    "Reference": "Proverbs 19:21",
-    "Verse": "Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails."
-  },
   "2021-05-03": {
     "Holiday": "* 1/2 week",
     "Lesson": "",
@@ -266,20 +260,20 @@ const bible = {
   },
   "2021-05-10": {
     "Holiday": "",
+    "Lesson": 32,
+    "Reference": "Proverbs 19:21",
+    "Verse": "Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails."
+  },
+  "2021-05-17": {
+    "Holiday": "",
     "Lesson": 33,
     "Reference": "John 8:58",
     "Verse": "“Very truly I tell you,” Jesus answered, “before Abraham was born, I am!”"
   },
-  "2021-05-17": {
+  "2021-05-24": {
     "Holiday": "",
     "Lesson": 34,
     "Reference": "Rev. 1:3",
     "Verse": "Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear it and take to heart what is written in it,because the time is near."
-  },
-  "2021-05-24": {
-    "Holiday": "Last week",
-    "Lesson": "",
-    "Reference": "",
-    "Verse": ""
   }
 };
